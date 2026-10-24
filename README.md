@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anurag1exe/Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/anurag1exe/Leetcode/tree/master/0029-divide-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anurag1exe/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/anurag1exe/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
